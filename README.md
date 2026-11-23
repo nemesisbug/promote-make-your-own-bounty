@@ -26,7 +26,7 @@ Play code: `makefun-pylon-lute-orca` (code 0 of the account's 4 in this bounty, 
 
 ## The photo
 
-The post's own photo is `post-photo.png` (made for this post: "Make your own bounty" over a dark gradient, with the plain text `make.fun`). It lives outside this repository at `~/workspace/makefun-post-x-promote-make-your-own-bounty-01-photo/` — attach that file to the post. A screenshot of https://make.fun/sponsor/new works as a swap-in if preferred.
+The post's own photo is `media-generation-post-photo-0-8906d8cf-c57b-4c54-818f-1f9c5b3a546e.png` (made for this post: "Make your own bounty" over a dark gradient, with the plain text `make.fun`). It lives outside this repository at `~/workspace/makefun-post-x-promote-make-your-own-bounty-01-photo/` — attach that file to the post. A screenshot of https://make.fun/sponsor/new works as a swap-in if preferred.
 
 ## The program
 
